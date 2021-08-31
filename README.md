@@ -3,7 +3,7 @@
     <img src="DragNDropPreview.gif" alt="animated"/>
 </p>
 
-# Hack news app
+# Drag and Drop
 
 
 > To install and run the project locally
