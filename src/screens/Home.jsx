@@ -13,3 +13,7 @@ class Home extends Component {
 }
 
 export { Home }
+
+/*
+Sign in, and login with google and facebook.
+*/
