@@ -1,9 +1,13 @@
-# Formulario en fases - React
 
-> Un formulario en react que se desarrolla en distintas fases.
+<p align="center">
+    <img src="DragNDropPreview.gif" alt="animated"/>
+</p>
 
-```
+# Hack news app
 
-npm i && npm run devserver
 
+> To install and run the project locally
+
+```shell
+npm i && npm start
 ```
