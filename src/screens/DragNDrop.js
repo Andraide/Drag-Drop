@@ -4,7 +4,7 @@ import '@/styles/DragNDrop.css';
 
 
 
-function CustomFormHook() {
+function DragNDrop() {
     
     const reducer = (state, action) => {
     switch (action.type) {
@@ -39,6 +39,6 @@ function CustomFormHook() {
     )
 }
 
-export default CustomFormHook;
+export { DragNDrop };
 
 
